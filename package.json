@@ -1,5 +1,5 @@
 {
-        "name": "AZCore",
+        "name": "azcore",
         "description": "AZCore JavaScript FrameWork Designed To Simplify Development.",
         "keywords": ["AZCore", "FrameWork", "JavaScript", "DOM Manipulation", "JavaScript Router"],
         "version": "0.0.0",
@@ -18,6 +18,9 @@
         "jsdelivr": "SRC/AZCore.js",
         "browser": "SRC/AZCore.js",
         "style": "SRC/AZCore.css",
+        "publishConfig":{
+                "access":"public"
+        },
         "files": [
                 "SRC/",
                 "README.md",
