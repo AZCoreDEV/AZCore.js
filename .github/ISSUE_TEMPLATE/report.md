@@ -1,9 +1,10 @@
 ---
-NAME: REPORT  
-ABOUT: REPORT ANYTHING TO HELP US IMPROVE
-TITLE: '[REPORT]'
-LABELS: ''
-ASSIGNEES: '' 
+name: REPORT
+about: REPORT ANYTHING TO HELP US IMPROVE
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 ## DESCRIPTION  
