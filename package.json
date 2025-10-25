@@ -1,0 +1,27 @@
+{
+        "name": "AZCore",
+        "description": "AZCore JavaScript FrameWork Designed To Simplify Development.",
+        "keywords": ["AZCore", "FrameWork", "JavaScript", "DOM Manipulation", "JavaScript Router"],
+        "version": "0.0.0",
+        "author": "Rivan Morin <rivanmorin@azcore.dev>",
+        "license": "MIT",
+        "homepage": "https://azcore.dev",
+        "repository": {
+                "type": "git",
+                "url": "git+https://github.com/AZCoreDEV/AZCore.js.git"
+        },
+        "bugs": {
+                "url": "https://github.com/AZCoreDEV/AZCore.js/issues"
+        },
+        "main": "SRC/AZCore.js",
+        "unpkg": "SRC/AZCore.js",
+        "jsdelivr": "SRC/AZCore.js",
+        "browser": "SRC/AZCore.js",
+        "style": "SRC/AZCore.css",
+        "files": [
+                "SRC/",
+                "README.md",
+                "LICENSE.md",
+                "package.json"
+        ]
+}
